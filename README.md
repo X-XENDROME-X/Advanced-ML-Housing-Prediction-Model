@@ -1,6 +1,6 @@
 <h1 align="center">Advanced ML Housing Prediction Model</h1>
 <p align="center">
-  <img src="housing_banner.jpg" alt="Housing Price Prediction" width="500"/>
+  <img src="housing_banner.png" alt="Housing Price Prediction" width="500"/>
 </p>
 
 A comprehensive machine learning project demonstrating a complete machine learning pipeline for predicting housing prices using the California Housing dataset. The notebook showcases advanced ML techniques, including multiple algorithm comparisons, hyperparameter tuning, and comprehensive model evaluation with overfitting prevention.
