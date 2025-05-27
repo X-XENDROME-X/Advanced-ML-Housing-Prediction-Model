@@ -1,4 +1,4 @@
-<h1 align="center">Advanced ML Housing Prediction Model</h1>
+<h1 align="center">Advanced ML Housing Price Prediction Model</h1>
 <p align="center">
   <img src="housing_banner.png" alt="Housing Price Prediction" width="500"/>
 </p>
