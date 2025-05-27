@@ -86,7 +86,6 @@ The **California Housing Dataset** contains information about housing districts 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/X-XENDROME-X/Advanced-ML-Housing-Prediction-Model.git
-   ```
 
 2. **Set up a virtual environment (recommended)**
    ```bash
